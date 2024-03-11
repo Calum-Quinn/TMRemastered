@@ -1,8 +1,6 @@
-package MonCode.Code;
-
 import java.util.*;
 
-public class Encryption {
+public class Decryption {
 
     private static Scanner sc;
 
