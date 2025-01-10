@@ -1,3 +1,5 @@
+package NewCode;
+
 import java.util.*;
 
 public class Encryption {
